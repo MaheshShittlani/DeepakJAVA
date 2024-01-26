@@ -1,0 +1,4 @@
+Q) print 1 to 100 numbers, 10 numbers in each line
+Q) Enter any year and print the first day(Already done). Print the calender for January of any year.
+Q) Input any number and check it is prime or not.
+    Example: 3,5,7,11,13,17
